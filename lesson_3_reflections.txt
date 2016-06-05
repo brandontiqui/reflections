@@ -1,0 +1,2 @@
+When would you want to use a remote repository rather than keeping all your work local?
+Remote repositories are used when work will be published on GitHub.
