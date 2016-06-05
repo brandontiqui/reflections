@@ -15,3 +15,6 @@ Diagrams can show the parents of commits and help materialize the concept of rea
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 All reachable commits in the two branches are ordered by timestamp.  The diagram shows the parents of each commit.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Git cannot resolve conflicts so developers have to do it manually to decide which code to keep.
