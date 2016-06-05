@@ -1,2 +1,5 @@
 When would you want to use a remote repository rather than keeping all your work local?
 Remote repositories are used when work will be published on GitHub.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+Some commits may not be ready for publishing.
