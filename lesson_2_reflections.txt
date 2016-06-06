@@ -18,3 +18,6 @@ All reachable commits in the two branches are ordered by timestamp.  The diagram
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
 Git cannot resolve conflicts so developers have to do it manually to decide which code to keep.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Fork copies another GitHub user's repo (that you don't have permission to add to) to your repo on GitHub's servers.  Cloning a repo from GitHub place the repo onto your local machine; forking is also a form of cloning on GitHub's servers.  Branches are labels for a series of commits; the label will always reference the tip of the branch.
