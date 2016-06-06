@@ -3,3 +3,6 @@ Remote repositories are used when work will be published on GitHub.
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 Some commits may not be ready for publishing.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Fork copies another GitHub user's repo (that you don't have permission to add to) to your repo on GitHub's servers.  Cloning a repo from GitHub place the repo onto your local machine; forking is also a form of cloning on GitHub's servers.  Branches are labels for a series of commits; the label will always reference the tip of the branch.
