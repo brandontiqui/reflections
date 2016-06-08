@@ -9,3 +9,6 @@ Fork copies another GitHub user's repo (that you don't have permission to add to
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 You can the master with the origin/master (copy) to see what is different.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Using a shared folder it would be harder to work on the same document at the same time.
